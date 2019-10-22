@@ -2,10 +2,12 @@ a = 12
 b = 11
 c = 10
 
-# swap
-temp = b
-c = temp
+def swap(x, y):
+	temp = x
+	x = y
+	y = temp
 
+swap(a, b)
 
 print(a + b)
 print(b * c)
