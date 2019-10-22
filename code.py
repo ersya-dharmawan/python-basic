@@ -3,7 +3,8 @@ b = 11
 c = 10
 
 # swap
-
+temp = b
+c =temp
 
 print(a + b)
 print(b * c)
