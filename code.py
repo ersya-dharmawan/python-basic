@@ -1,10 +1,12 @@
 a = 12
-b = 11
+b = 15
 c = 10
 
 # swap
 temp = b
-c =temp
+c = temp
+
+d = 0
 
 print(a + b)
 print(b * c)
