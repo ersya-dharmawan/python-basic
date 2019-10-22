@@ -4,7 +4,9 @@ c = 10
 
 # swap
 temp = b
-c =temp
+c = temp
+
+d = 3
 
 print(a + b)
 print(b * c)
