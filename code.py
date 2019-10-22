@@ -9,3 +9,4 @@ c = temp
 print(a + b)
 print(b * c)
 print(c - a)
+print(4 * 3)
